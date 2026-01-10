@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../FileLibrary/FileLibrary.csproj" Id="1f5c9f24-8bb5-4c50-a38b-2cc659d02184" />
+  <Project Path="../Invorement/Invorement.csproj" Id="f41dbc0e-7e32-4019-8f8b-641551414c65" />
+  <Project Path="myGame.csproj" Id="055bf58c-186a-402c-a5bf-c9a7faa48b90" />
+</Solution>
